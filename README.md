@@ -7,13 +7,13 @@ Get a list of your checked out titles from the King County Library System.  This
 
 ### Install dependencies
 
-    pip install -r requirements.txt`
+    pip install -r requirements.txt
     
 ### Setup credentials
 
 Create a file named `.env` with these contents
 
-    USER=<your username/barcode>
+    KCLS_USER=<your username/barcode>
     PIN=<your pin>
 
 ### Run
